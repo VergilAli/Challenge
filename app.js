@@ -12,7 +12,7 @@ function capturaAmigo(){
         return;
     }
 //Analiza si el nombre ya existe en el arreglo utilizando .includes(), si esta repetido mostrara el alert y se detiene la funcion.
-    if (amigos.include(nombre)){
+    if (amigos.includes(nombre)){
         alert("Este nombre ya existe");
         return;
 }
@@ -27,7 +27,7 @@ mostrarLista();
 //Declaracion de funcion que mostrara visualmente la lista que asigno el usuario.
 function mostrarLista(){
 //Guarda en la variable lista la referencia al elemento, donde se listaran los nombres.
-    const lista = document.getElementById("lsitaAmigos");
+    const lista = document.getElementById("listaAmigos");
 //Borra todo el contenido html que tenga la lista para evitar duplicados cuando se actualice.
     lista.innerHTML = "";
 //Inicia un bucle que recorre todos los elementos del arreglo.
@@ -40,4 +40,18 @@ function mostrarLista(){
         lista.appendChild(elemento);
 
     }
+}
+//Se declara la funcion que se ejecuta cuando el usuario hace clic sortear amigo.
+function sortearAmigo(){
+//Compruba que esten por lo menos 2 nombres en la lista, si no se cumple muestra una alerta y detiene la funcion.
+    if(amigos.length < 2){
+        alert("Necesitas por lo menos 2 amigos para poder hacer el sorteo");
+        return;
+    }
+    //Genera un numero entero aleatorio entre 0 y la condicion amigos,legth, ese numero representa la pocision del amigo sorteado.
+    const aleatorio = Math.floor(Math.random() * amigos.length);
+    //Guarda en la variable amigos Sleccionado el nombre que esta en la posicion aleatorio.
+    const amigoSeleccionado = amigos[aleatorio];
+    //Muestra en el elemento con id 'resultado' el nombre del amigo sorteado, con la parte del nombre en negritas
+    document.getElementById("resultado").innerHTML = "Amigo sorteado: <strong>" + amigoSeleccionado + "</strong>";
 }
