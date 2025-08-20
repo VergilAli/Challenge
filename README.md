@@ -2,7 +2,7 @@
 
 En este programa que fue hecho en HTML, CSS y javaScript permite que el usuario agregue nombres de amigos a una lista la cual al terminar de agregar puede realizar un sorteo aleatorio.
 
-Caracteristicas:
+## :hammer:Funcionalidades del proyecto:
 
 -Agregar nombres a una lista desde una caja de texto.
 
