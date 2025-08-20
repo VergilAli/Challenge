@@ -5,6 +5,7 @@ En este programa que fue hecho en HTML, CSS y javaScript permite que el usuario 
 Caracteristicas:
 
 -Agregar nombres a una lista desde una caja de texto.
+<img width="511" height="296" alt="Escribe nombre" src="https://github.com/user-attachments/assets/eee596d9-fbe6-422e-af4d-4c1975f39668" />
 -No acepta nombres repetidos ni vacios.
 -Muestra los nombres que ya agrego el usuario.
 -Realiza el sorteo de manera aleatoria.
