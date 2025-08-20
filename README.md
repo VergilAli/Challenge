@@ -39,7 +39,7 @@ En este programa que fue hecho en HTML, CSS y javaScript permite que el usuario 
 <img width="475" height="141" alt="image" src="https://github.com/user-attachments/assets/9d5d69ca-225e-43af-9488-f9cfaad56ce9" />
 
 
-Uso para el usuario:
+## :hammer:Como utilizarlo:
 
 -Abre index.html en el navegador.
 -Escribe el nombre de tu amigo en la casilla y preciona en 'añadir'.
