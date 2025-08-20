@@ -9,7 +9,15 @@ Caracteristicas:
 
 
 <img width="511" height="296" alt="Escribe nombre" src="https://github.com/user-attachments/assets/eee596d9-fbe6-422e-af4d-4c1975f39668" />
+
+
 -No acepta nombres repetidos ni vacios.
+
+
+
+<img width="500" height="143" alt="ErrorNombreRepetido" src="https://github.com/user-attachments/assets/659447de-a00f-4901-b92a-3eb194213d29" />
+
+
 -Muestra los nombres que ya agrego el usuario.
 -Realiza el sorteo de manera aleatoria.
 -Muestra el resultado en negritas.
