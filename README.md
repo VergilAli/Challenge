@@ -19,9 +19,25 @@ Caracteristicas:
 
 
 -Muestra los nombres que ya agrego el usuario.
+
+
+
+<img width="537" height="283" alt="GuardaElNombre" src="https://github.com/user-attachments/assets/44e8816a-4156-428a-a8b6-243ee0215aa8" />
+
+
 -Realiza el sorteo de manera aleatoria.
--Muestra el resultado en negritas.
+
+
+
+<img width="548" height="296" alt="Sortea" src="https://github.com/user-attachments/assets/99479d27-b610-4314-a2c3-b628ae01ed29" />
+
+
 -Realiza una validacion para que no se pueda hacer el sorteo solo con 1 nombre.
+
+
+
+<img width="475" height="141" alt="image" src="https://github.com/user-attachments/assets/9d5d69ca-225e-43af-9488-f9cfaad56ce9" />
+
 
 Uso para el usuario:
 
