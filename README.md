@@ -1,4 +1,4 @@
-<em> # Challenge amigo secreto - README </em>
+<em># Challenge amigo secreto - README </em>
 
 En este programa que fue hecho en HTML, CSS y javaScript permite que el usuario agregue nombres de amigos a una lista la cual al terminar de agregar puede realizar un sorteo aleatorio.
 
