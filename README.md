@@ -51,7 +51,7 @@ Dudas dobre el proyecto:
 -Revisa la documentacion ya expuesta en este README.
 -Contacta conmigo alvarezluisfelipe@gmail.com.
 
-Autor: 
+## :hammer:Autor: 
 
 Luis Álvarez – Autor del proyecto y desarrollador principal.
 Correo: alvarezluisfelipe@gmail.com.
